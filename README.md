@@ -1,4 +1,5 @@
-![NA](https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif)
+![NA](https://i.pinimg.com/originals/57/5a/20/575a20918d349a354cc636a0d49b35a0.gif)
+
 ### Hi there Purvaj Here 👋
 I am a CS student and exceited by everything in Computer Science 
 
