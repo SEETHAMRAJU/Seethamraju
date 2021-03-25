@@ -1,9 +1,11 @@
+![NA](https://media.tenor.com/images/acc4116372dcc4b342cb1a00ae657151/tenor.gif)
 ### Hi there Purvaj Here 👋
 I am a CS student and exceited by everything in Computer Science 
 
 - Looking for some opportunities in CS from Jan 2022
 - You can see my repos. Most of my work is in Comptuer vision and Application development
-- To know more about me visit [my website](https://seethamraju.github.io)
+- 📫 To know more about me visit my [portfolio](https://seethamraju.github.io)
+- You can know more about my work on [LinkedIn](https://linkedin.com/in/spurvaj)
 <!--
 **SEETHAMRAJU/Seethamraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
