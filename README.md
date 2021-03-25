@@ -1,4 +1,4 @@
-![NA](https://i.gifer.com/Geu2.gif)
+![NA](https://i.pinimg.com/originals/9b/9c/28/9b9c28f23634c5b3d383af603e4e78f0.gif)
 
 ### Hi there Purvaj Here 👋
 I am a CS student and exceited by everything in Computer Science 
