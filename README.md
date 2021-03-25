@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there Purvaj Here 👋
+I am a CS student and exceited by everything in Computer Science 
 
+- Looking for some opportunities in CS from Jan 2022
+- You can see my repos. Most of my work is in Comptuer vision and Application development
+- To know more about me visit [my website](https://seethamraju.github.io)
 <!--
 **SEETHAMRAJU/Seethamraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
